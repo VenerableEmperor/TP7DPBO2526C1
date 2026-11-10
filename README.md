@@ -2,23 +2,23 @@
 ## JANJI
 Saya Louis Marcel Wendy Adrianto dengan NIM 2509068 mengerjakan Tugas Praktikum 7 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
-## DESIGN 
-game_library/
-  class/
-    Game.php
-    Publisher.php
-    Platform.php
-  config/
-    Database.php
-  database/
-    game_library.sql
-  style/
-    style.css
-  view/
-    header.php
-    footer.php
-  index.php
-  edit.php
+## STRUKTUR KODE 
+game_library
+- class
+  - Game.php
+  - Publisher.php
+  - Platform.php
+- config
+  - Database.php
+- database
+  - game_library.sql
+- style
+  - style.css
+- view
+  - header.php
+  - footer.php
+- index.php
+- edit.php
 
 ## STRUKTUR KELAS
 Data pada mysql tersebut merupakan tiga kelas : 
