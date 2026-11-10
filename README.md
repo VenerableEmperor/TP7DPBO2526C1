@@ -2,7 +2,9 @@
 ## JANJI
 Saya Louis Marcel Wendy Adrianto dengan NIM 2509068 mengerjakan Tugas Praktikum 7 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
-## STRUKTUR KODE 
+## TEMA DAN STRUKTUR 
+Program ini merupakan website library game untuk menyimpan dan mengelola list data game yang dirilis oleh publisher tertentu dan pada platform tertentu. 
+
 game_library
 - class
   - Game.php
